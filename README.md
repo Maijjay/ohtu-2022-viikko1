@@ -4,4 +4,4 @@
 
 [![codecov](https://codecov.io/gh/Maijjay/ohtu-2022-viikko1/branch/main/graph/badge.svg?token=TG5G7RXIZR)](https://codecov.io/gh/Maijjay/ohtu-2022-viikko1)
 
-(https://github.com/Maijjay/ohtu-tehtavat)
+https://github.com/Maijjay/ohtu-tehtavat
