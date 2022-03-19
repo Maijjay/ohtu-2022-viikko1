@@ -1,0 +1,9 @@
+__pycache__
+
+.pytest.cache
+
+DS_STORE
+**/DS_STORE
+
+*.tmp
+**/*.tmp
